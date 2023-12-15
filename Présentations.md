@@ -1,7 +1,7 @@
 # Titre : Découvrir les Algorithmes
 
 ## Introduction (1 minute)
-Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est comme une recette magique que suivent les ordinateurs, les machines, mais aussi une personne pour résoudre des problèmes. Vous savez, comme quand on suit une recette pour cuisiner !
+Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est comme une recette que suivent les ordinateurs, les machines, mais aussi une personne pour résoudre des problèmes. Vous savez, comme quand on suit une recette pour cuisiner !
 
 ## Qu'est-ce qu'un algorithme ? (2 minutes)
 Un algorithme, c'est une suite d'étapes, une liste de consignes que l'on va suivre pour exécuter une action. Imaginez que vous donniez des instructions à un robot, à une machine, ou même une personne pour qu'il ou elle fasse quelque chose. Par exemple, comment dessiner un bonhomme en 4 étapes : cercle pour la tête, corps avec deux jambes et deux bras. C'est un algorithme de dessin !
