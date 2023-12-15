@@ -1,7 +1,7 @@
 # Titre : Découvrir les Algorithmes
 
 ## Introduction (1 minute)
-Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est comme une recette que suivent les ordinateurs, les machines, mais aussi une personne pour résoudre des problèmes. Vous savez, comme quand on suit une recette pour cuisiner !
+Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est une recette que que l'on suit pour résoudre des problèmes ou bien pour exécuter une action. Vous savez, comme quand on suit une recette pour cuisiner !
 
 ## Qu'est-ce qu'un algorithme ? (2 minutes)
 Un algorithme, c'est une suite d'étapes, une liste de consignes que l'on va suivre pour exécuter une action. Imaginez que vous donniez des instructions à un robot, à une machine, ou même une personne pour qu'il ou elle fasse quelque chose. Par exemple, comment dessiner un bonhomme en 4 étapes : cercle pour la tête, corps avec deux jambes et deux bras. C'est un algorithme de dessin !
@@ -69,6 +69,18 @@ Algorithme :
 6.	Si tu veux, ajoute de la crème chantilly par-dessus.
 
 Illustration : Utilise des images de cacao, de sucre, d'eau bouillante, de tasse et de crème chantilly pour montrer chaque étape.
+
+# Exemple 6 : La règle d'un jeu, le jeu de dame
+Algorithme :
+
+1.	Un pion du jeu de dames peut se déplacer en diagonale d'une seule case et toujours vers l'avant.
+2.	Sauf s'il a devant lui un pion adverse qui est lui même suivi d'une case libre. On mange alors ce pion adverse.
+3.	Quand on a mangé un pion, on peut continuer à manger les pions adverses s'ils respectent les conditions
+4.	Quand un pion arrive à la dernière ligne du jeu adverse alors, on pose un pion mangé par dessus lui, on le transforme en "dame". Une dame se déplace comme un pion ordinaire (toujours en diagonale) mais il peut se déplacer du nombre de cases qu'il veut.
+5.	Le joueur qui n'a plus de pion a perdu.
+
+Illustration : Une partie de dame avec les déplacements possibles.
+
 
 
 # Titre : Découvrons les Robots !
