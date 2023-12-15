@@ -1,17 +1,18 @@
 # Titre : Découvrir les Algorithmes
 
 ## Introduction (1 minute)
-Bonjour les amis ! Aujourd'hui, on va parler d'une chose super intéressante : les algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est comme une recette magique que suivent les ordinateurs pour résoudre des problèmes. Vous savez, comme quand on suit une recette pour cuisiner quelque chose de délicieux !
+Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est comme une recette magique que suivent les ordinateurs, les machines, mais aussi une personne pour résoudre des problèmes. Vous savez, comme quand on suit une recette pour cuisiner !
 
 ## Qu'est-ce qu'un algorithme ? (2 minutes)
-Un algorithme, c'est une suite d'étapes, comme une liste de consignes. Imaginez que vous donniez des instructions à un robot pour qu'il fasse quelque chose. Par exemple, comment dessiner un bonhomme en 4 étapes : cercle pour la tête, corps avec deux jambes et deux bras. C'est un algorithme de dessin !
+Un algorithme, c'est une suite d'étapes, une liste de consignes que l'on va suivre pour exécuter une action. Imaginez que vous donniez des instructions à un robot, à une machine, ou même une personne pour qu'il ou elle fasse quelque chose. Par exemple, comment dessiner un bonhomme en 4 étapes : cercle pour la tête, corps avec deux jambes et deux bras. C'est un algorithme de dessin !
 
 ## Exemple concret : Dessiner un arbre (2 minutes)
 Prenons un exemple concret : dessiner un arbre. On pourrait faire ça en quelques étapes simples :
 
 1.	Dessine un tronc vertical.
 2.	Ajoute des feuilles en forme de cercle en haut du tronc.
-3.	Voilà, tu as un bel arbre !
+
+Voilà, tu as un bel arbre !
 
 ## L'importance de l'ordre (1 minute)
 L'ordre des étapes dans un algorithme est très important. Si on inversait les étapes pour dessiner un arbre, on obtiendrait quelque chose de très bizarre. C'est comme si on mettait la crème avant le café au petit déjeuner, ce ne serait pas pareil !
@@ -27,7 +28,7 @@ Algorithme :
 3.	Reviens au point central.
 4.	Tourne un peu à droite.
 5.	Trace une autre ligne vers le haut.
-6.	Répète les étapes 3 à 5 pour former une étoile.
+6.	Répète les étapes 3 à 5 pour former une étoile avec le nombre de branches que l'on désire.
 
 Illustration : Ajoute des dessins pour chaque étape, montrant comment l'étoile se construit progressivement.
 ________________________________________
@@ -39,7 +40,8 @@ Algorithme :
 2.	Compare le premier et le deuxième.
 3.	Prends le plus grand des deux.
 4.	Compare le résultat avec le troisième nombre.
-5.	Le plus grand de ces trois nombres est la réponse !
+
+Le plus grand de ces trois nombres est la réponse !
 
 Illustration : Utilise des chiffres et des symboles "plus grand que" pour montrer la comparaison des nombres.
 ________________________________________
@@ -72,15 +74,15 @@ Illustration : Utilise des images de cacao, de sucre, d'eau bouillante, de tasse
 # Titre : Découvrons les Robots !
 
 ## Introduction (1 minute)
-Bonjour les amis ! Aujourd'hui, on va plonger dans le monde fascinant des robots. Vous savez, ces drôles de machines qui peuvent faire des choses incroyables. Commençons notre exploration !
+On va plonger dans le monde fascinant des robots. Vous savez, ces drôles de machines qui peuvent faire des choses incroyables. Commençons notre exploration !
 
 ## Qu'est-ce qu'un Robot ? (2 minutes)
-Un robot est comme un assistant électronique, un peu comme un ami mécanique. Il peut faire des tâches pour nous, parfois même mieux et plus vite. Les robots ont un corps, des bras, des jambes, et certaines parties spéciales qui les aident à accomplir différentes missions.
+Un robot est une machine, un peu comme un ami mécanique. Mais un robot est une machine qui a reçu des instructions pour exécuter des actions, on dit qu'il a été programmé. Les robots peuvent être de simples machines avec un moteur mais ils peuvent aussi être très complexes et ressembler à une être humain, avec un corps, des bras, des jambes.
 
 * Illustration : Montrez des dessins de robots avec des caractéristiques différentes, par exemple, un robot avec des bras flexibles, un écran pour les yeux, etc.
 
 ## Les Tâches des Robots (2 minutes)
-Les robots peuvent faire toutes sortes de choses ! Certains peuvent aider à nettoyer la maison, d'autres à construire des voitures, et il y en a même qui peuvent nous parler. Certains robots peuvent même aller dans des endroits dangereux où les humains ne peuvent pas aller.
+Les robots peuvent faire toutes sortes de choses ! Certains peuvent aider à nettoyer la maison, d'autres à construire des voitures, et il y en a même qui peuvent nous parler. Certains robots peuvent même aller dans des endroits dangereux où les humains ne peuvent pas aller, comme sous la mer, dans des mines, ou encore aller explorer la lune ou mars.
 
 * Illustration : Utilisez des images ou des dessins pour montrer des robots dans différentes situations, comme nettoyer, construire, ou explorer.
 
@@ -90,6 +92,6 @@ Les robots ont besoin d'instructions pour savoir quoi faire, un peu comme nous a
 * Illustration : Imaginez un robot recevant une instruction sous la forme d'une bulle de pensée avec des étapes simples.
 
 ## Conclusion (1 minute)
-En résumé, les robots sont comme des amis mécaniques qui peuvent nous aider à faire des choses géniales. Ils ont un corps, des bras et des jambes, et ils suivent des instructions pour accomplir des missions. C'est un peu comme s'ils suivaient des recettes magiques ! Qui sait, peut-être qu'un jour, vous aurez votre propre robot pour vous aider !
+En résumé, les robots sont comme des amis mécaniques qui peuvent nous aider à faire des choses utiles. Ils peuvent avoir un corps, des bras et des jambes, et ils suivent des instructions pour accomplir des missions. C'est un peu comme s'ils suivaient des recettes ! Qui sait, peut-être qu'un jour, vous aurez votre propre robot pour vous aider !
 
 
