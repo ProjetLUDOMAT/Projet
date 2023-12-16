@@ -1,10 +1,10 @@
 # Titre : Découvrir les Algorithmes
 
 ## Introduction (1 minute)
-Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est une recette que que l'on suit pour résoudre des problèmes ou bien pour exécuter une action. Vous savez, comme quand on suit une recette pour cuisiner !
+Aujourd'hui, on va parler des algorithmes. Mais, qu'est-ce que c'est exactement ? Eh bien, un algorithme, c'est une recette que que l'on suit pour exécuter une action bien définie. Vous savez, comme quand on suit une recette pour cuisiner !
 
 ## Qu'est-ce qu'un algorithme ? (2 minutes)
-Un algorithme, c'est une suite d'étapes, une liste de consignes que l'on va suivre pour exécuter une action. Imaginez que vous donniez des instructions à un robot, à une machine, ou même une personne pour qu'il ou elle fasse quelque chose. Par exemple, comment dessiner un bonhomme en 4 étapes : cercle pour la tête, corps avec deux jambes et deux bras. C'est un algorithme de dessin !
+Un algorithme, c'est une suite d'étapes, une liste de consignes que l'on va suivre pour exécuter une action bien définie. Imaginez que vous donniez des instructions à un robot, à une machine, ou même une personne pour qu'il ou elle fasse quelque chose. Par exemple, comment dessiner un bonhomme en 4 étapes : cercle pour la tête, corps avec deux jambes et deux bras. C'est un algorithme de dessin !
 
 ## Exemple concret : Dessiner un arbre (2 minutes)
 Prenons un exemple concret : dessiner un arbre. On pourrait faire ça en quelques étapes simples :
@@ -18,7 +18,7 @@ Voilà, tu as un bel arbre !
 L'ordre des étapes dans un algorithme est très important. Si on inversait les étapes pour dessiner un arbre, on obtiendrait quelque chose de très bizarre. C'est comme si on mettait la crème avant le café au petit déjeuner, ce ne serait pas pareil !
 
 ## Conclusion (1 minute)
-En résumé, un algorithme, c'est une suite d'étapes ou d'instructions pour résoudre un problème. On peut en trouver partout, même dans des choses simples comme dessiner un arbre. En comprenant comment fonctionnent les algorithmes, on peut devenir de vrais petits magiciens capables de créer plein de choses passionnantes !
+En résumé, un algorithme, c'est une suite d'étapes ou d'instructions pour exécuter une action bien définie. On peut en trouver partout, même dans des choses simples comme dessiner un arbre. En comprenant comment fonctionnent les algorithmes, on peut devenir de vrais petits magiciens capables de créer plein de choses passionnantes !
 ________________________________________
 # Exemple 2 : Dessiner une Étoile (2 minutes)
 Algorithme :
@@ -81,6 +81,11 @@ Algorithme :
 
 Illustration : Une partie de dame avec les déplacements possibles.
 
+# Exemple 7: La pendule:
+Algorithme:
+
+1. la grande aiguille (des minutes), ou bien le chiffre des minutes avance un peu pour chaque minute
+2. dès que la grande aiguille a fait un tour complet, ou bien quand le chiffre des minutes atteint 60, la petite aiguille avance ou bien le chiffre des heures augmente de 1.  
 
 
 # Titre : Découvrons les Robots !
