@@ -70,7 +70,7 @@ Algorithme:
 2. dès que la grande aiguille a fait un tour complet, ou bien quand le chiffre des minutes atteint 60, la petite aiguille avance ou bien le chiffre des heures augmente de 1.  
 
 ## L'importance de l'ordre (1 minute)
-L'ordre des étapes dans un algorithme est très important. Si on inversait les étapes pour dessiner une étoile, on obtiendrait quelque chose de très bizarre. C'est comme si on mettait la crème avant le chocolat au petit déjeuner, ce ne serait pas pareil !
+L'ordre des étapes dans un algorithme est très important. Si on inversait les étapes pour dessiner une étoile, on obtiendrait quelque chose de très bizarre. C'est comme si on mettait la crème avant le chocolat au petit déjeuner, ce ne serait pas pareil ! On le verra tout à l'heure en manipulant les Blue Bot. 
 
 ## Conclusion (1 minute)
 En résumé, un algorithme, c'est une suite d'étapes ou d'instructions pour exécuter une action bien définie. On peut en trouver partout, même dans des choses simples comme dessiner un arbre. En comprenant comment fonctionnent les algorithmes, on peut devenir de vrais petits magiciens capables de créer plein de choses passionnantes !
@@ -93,7 +93,7 @@ Les robots peuvent faire toutes sortes de choses ! Certains peuvent aider à net
 ## Comment les Robots "Pensent" ? (2 minutes)
 Les robots ont besoin d'instructions pour savoir quoi faire, un peu comme nous avec nos jeux et nos jouets. Les humains donnent des instructions aux robots pour les aider à accomplir des tâches. Ces instructions sont comme des recettes pour les robots.
 
-* Illustration : Imaginez un robot recevant une instruction sous la forme d'une bulle de pensée avec des étapes simples.
+* Illustration : Imaginez un robot recevant une instruction sous la forme d'une bulle de pensée avec des étapes simples. On le verra en vraie grandeur tout à l'heure en manipulant les Blue Bots.
 
 ## Conclusion (1 minute)
 En résumé, les robots peuvent nous aider à faire des choses utiles. Ils peuvent avoir un corps, des bras et des jambes, et ils suivent des instructions pour accomplir des missions. C'est un peu comme s'ils suivaient des recettes ! Qui sait, peut-être qu'un jour, vous aurez votre propre robot pour vous aider !
